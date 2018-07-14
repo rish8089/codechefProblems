@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90876eeb-c574-43b7-b6d4-636267a7bc6e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bruteforce/AVeryEasyProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutationsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,15 +18,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="Carvans.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/Carvans.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="319">
               <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -31,19 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NuclearReactor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bruteforce/NuclearReactor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BuyingSweets.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="270">
               <caret line="44" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -55,26 +45,20 @@
       <file leaf-file-name="BuyingSweetsMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweetsMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="34">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JewelsAndStones.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bruteforce/JewelsAndStones.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JewelsAndStonesMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JewelsAndStonesMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/JewelsAndStonesMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="10" column="50" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,8 +69,50 @@
       <file leaf-file-name="CarvansMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/CarvansMain.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="35" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AVeryEasyProblem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="57" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AVeryEasyProblemMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemMain.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="10" column="50" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="50" />
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LittleElephantAndPermutations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="76" column="36" lean-forward="true" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LittleElephantAndPermutationsMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutationsMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,18 +125,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="10" column="50" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NuclearReactorMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bruteforce/NuclearReactorMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,6 +168,11 @@
         <option value="$PROJECT_DIR$/src/bruteforce/BuyingSweets.java" />
         <option value="$PROJECT_DIR$/src/bruteforce/JewelsAndStones.java" />
         <option value="$PROJECT_DIR$/src/bruteforce/JewelsAndStonesMain.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/AVeryEasyProblem.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemInC" />
+        <option value="$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemMain.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutationsMain.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutations.java" />
       </list>
     </option>
   </component>
@@ -216,7 +235,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JewelsAndStonesMain">
+  <component name="RunManager" selected="Application.LittleElephantAndPermutationsMain">
+    <configuration name="AVeryEasyProblemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteforce.AVeryEasyProblemMain" />
+      <module name="CodechefCodingProblems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bruteforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="BuyingSweetsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bruteforce.BuyingSweetsMain" />
       <module name="CodechefCodingProblems" />
@@ -239,17 +269,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ideone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteforce.Ideone" />
-      <module name="CodechefCodingProblems" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bruteforce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="JewelsAndStonesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bruteforce.JewelsAndStonesMain" />
       <module name="CodechefCodingProblems" />
@@ -261,8 +280,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NuclearReactorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteforce.NuclearReactorMain" />
+    <configuration name="LittleElephantAndPermutationsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteforce.LittleElephantAndPermutationsMain" />
       <module name="CodechefCodingProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -314,19 +333,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Ideone" />
-      <item itemvalue="Application.NuclearReactorMain" />
       <item itemvalue="Application.CarvansMain" />
       <item itemvalue="Application.BuyingSweetsMain" />
       <item itemvalue="Application.JewelsAndStonesMain" />
+      <item itemvalue="Application.AVeryEasyProblemMain" />
+      <item itemvalue="Application.LittleElephantAndPermutationsMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LittleElephantAndPermutationsMain" />
+        <item itemvalue="Application.AVeryEasyProblemMain" />
         <item itemvalue="Application.JewelsAndStonesMain" />
         <item itemvalue="Application.BuyingSweetsMain" />
         <item itemvalue="Application.CarvansMain" />
-        <item itemvalue="Application.NuclearReactorMain" />
-        <item itemvalue="Application.Ideone" />
       </list>
     </recent_temporary>
   </component>
@@ -343,87 +362,69 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49880478" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4996016" weight="0.32954547" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.35298803" side_tool="true" visible="true" weight="0.34415585" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.35776892" side_tool="true" visible="true" weight="0.34415585" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64701194" weight="0.34415585" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32792208" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.71075696" weight="0.32467532" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.64223105" visible="true" weight="0.34415585" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996016" weight="0.32792208" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.70916337" weight="0.32467532" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24780877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24780877" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.47564936" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49641433" weight="0.47564936" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32954547" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutations.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="A[i]" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/CielAB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/CleaningUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/CoinFlip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/CoinFlipMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="31" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/CleaningUpMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/RacingHorsesMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="42" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bruteforce/CielABMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -701,43 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/Carvans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/CarvansMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="50" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="44" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweetsMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bruteforce/JewelsAndStones.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -755,10 +719,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/JewelsAndStonesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <caret line="44" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweetsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/Carvans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/CarvansMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemInC.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="57" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemInC">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/JewelsAndStonesMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutationsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/LittleElephantAndPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="76" column="36" lean-forward="true" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
