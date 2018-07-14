@@ -22,7 +22,7 @@ public class NuclearReactor
     }
 
     public void printDistributionOfParticles()
-    {git
+    {
        long prod[]=new long[K+1];//product array of length K+1
        long distribution[]=new long[K+1];
        prod[0]=1;
