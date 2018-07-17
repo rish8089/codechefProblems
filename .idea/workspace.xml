@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90876eeb-c574-43b7-b6d4-636267a7bc6e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/ArrangingCupCakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/ArrangingCupCakesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/ChefAndTheRightTriangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/ChefAndTheRightTrianglesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/TheBestBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bruteforce/TheBestBoxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteforce/GCD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bruteforce/GCD2Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +19,32 @@
       <file leaf-file-name="AVeryEasyProblem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="57" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="57" />
+            <state relative-caret-position="319">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GCD2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bruteforce/GCD2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="43" column="20" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="43" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GCD2Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bruteforce/GCD2Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" lean-forward="true" selection-start-line="6" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweetsMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="11" column="46" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
+              <caret line="11" column="46" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,33 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChefAndTheRightTriangles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bruteforce/ChefAndTheRightTriangles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#1108#1109#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
-                <element signature="e#1138#1139#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TheBestBox.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/TheBestBox.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -97,7 +95,6 @@
         <entry file="file://$PROJECT_DIR$/src/bruteforce/TheBestBoxMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,18 +102,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrangingCupCakes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrangingCupCakes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/ArrangingCupCakes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="210">
               <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,20 +118,8 @@
       <file leaf-file-name="ArrangingCupCakesMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bruteforce/ArrangingCupCakesMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChefAndTheRightTrianglesMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bruteforce/ChefAndTheRightTrianglesMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="57" lean-forward="true" selection-end-line="16" />
+            <state relative-caret-position="195">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,14 +178,16 @@
         <option value="$PROJECT_DIR$/src/bruteforce/TheBestBoxMain.java" />
         <option value="$PROJECT_DIR$/src/bruteforce/ArrangingCupCakesMain.java" />
         <option value="$PROJECT_DIR$/src/bruteforce/ArrangingCupCakes.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/GCD2.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/GCD2Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="495" />
-    <option name="y" value="150" />
-    <option name="width" value="1257" />
-    <option name="height" value="459" />
+    <option name="x" value="47" />
+    <option name="y" value="27" />
+    <option name="width" value="1319" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -240,8 +223,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrangingCupCakesMain">
+  <component name="RunManager" selected="Application.GCD2Main">
     <configuration name="ArrangingCupCakesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bruteforce.ArrangingCupCakesMain" />
       <module name="CodechefCodingProblems" />
@@ -282,8 +265,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DiscrepanciesInTheVotersListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteforce.DiscrepanciesInTheVotersListMain" />
+    <configuration name="FarmerFebMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteforce.FarmerFebMain" />
       <module name="CodechefCodingProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -293,8 +276,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FarmerFebMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bruteforce.FarmerFebMain" />
+    <configuration name="GCD2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteforce.GCD2Main" />
       <module name="CodechefCodingProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -357,19 +340,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DiscrepanciesInTheVotersListMain" />
       <item itemvalue="Application.FarmerFebMain" />
       <item itemvalue="Application.ChefAndTheRightTrianglesMain" />
       <item itemvalue="Application.TheBestBoxMain" />
       <item itemvalue="Application.ArrangingCupCakesMain" />
+      <item itemvalue="Application.GCD2Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCD2Main" />
         <item itemvalue="Application.ArrangingCupCakesMain" />
         <item itemvalue="Application.TheBestBoxMain" />
         <item itemvalue="Application.ChefAndTheRightTrianglesMain" />
         <item itemvalue="Application.FarmerFebMain" />
-        <item itemvalue="Application.DiscrepanciesInTheVotersListMain" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +379,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -405,14 +388,14 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.36095616" side_tool="true" visible="true" weight="0.34415585" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.361753" side_tool="true" visible="true" weight="0.34415585" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6390438" visible="true" weight="0.34415585" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.638247" visible="true" weight="0.34415585" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996016" weight="0.32792208" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.70597607" weight="0.32467532" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.7043825" weight="0.32467532" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25577688" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25976095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -420,11 +403,11 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49641433" weight="0.47564936" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4996016" weight="0.32954547" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -449,20 +432,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/CielAB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/RacingHorses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bruteforce/CleaningUpMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -491,9 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="77" lean-forward="true" selection-start-line="2" selection-end-line="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -515,9 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="46" selection-start-line="2" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,9 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -549,9 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="36" column="22" selection-end-line="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,9 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,9 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,9 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="50" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,16 +682,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="10" column="50" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bruteforce/ChefAndTheRightTrianglesMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="57" lean-forward="true" selection-end-line="16" />
+        <state relative-caret-position="150">
+          <caret line="12" column="57" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -755,16 +697,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bruteforce/ChefAndTheRightTriangles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="480">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#1108#1109#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/TheBestBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/TheBestBoxMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweetsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="46" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/ArrangingCupCakes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/ArrangingCupCakesMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -779,27 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/TheBestBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/TheBestBoxMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblemMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -807,44 +769,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/BuyingSweetsMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="46" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bruteforce/AVeryEasyProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="57" />
+        <state relative-caret-position="319">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/ArrangingCupCakesMain.java">
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/GCD2Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="21" lean-forward="true" selection-start-line="6" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bruteforce/ArrangingCupCakes.java">
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/GCD2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="229">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="43" selection-end-column="20" />
           <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
