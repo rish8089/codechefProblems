@@ -22,6 +22,8 @@ class ArrangingCupCakes {
 
     public void processInput(int N)
     {
+        printf("asdadsdd");
+        System.out.println("asddd");
     }
 
     public void getMinDiffBtwnHeightAndWidth()
