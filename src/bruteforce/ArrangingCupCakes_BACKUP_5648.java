@@ -22,6 +22,7 @@ class ArrangingCupCakes {
 
     public void processInput(int N)
     {
+        this.N=N;
     }
 
     public void getMinDiffBtwnHeightAndWidth()

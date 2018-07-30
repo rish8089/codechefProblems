@@ -1,15 +1,6 @@
 package bruteforce;
-<<<<<<< HEAD
 /// as dasd
 import java.o.BufferedReader;
-||||||| merged common ancestors
-
-import java.io.BufferedReader;
-=======
-
-import java.io.BufferedReader;
-import java.util.*;
->>>>>>> 236bd1e264cd39e19254cbae31c7f1907062dcd1
 
 class ArrangingCupCakes {
 
@@ -22,28 +13,17 @@ class ArrangingCupCakes {
 
     public void processInput(int N)
     {
+        this.N=N;
     }
 
     public void getMinDiffBtwnHeightAndWidth()
     {
-<<<<<<< HEAD
 	System.out.println("asdasdasdasd");
 System.out.println("asdasdasdasd");
 System.out.println("asdasdasdasd");
 System.out.println("asdasdasdasd");
 System.out.println("asdasdasdasd");
 
-||||||| merged common ancestors
-=======
-        System.out.println("rishabh");
-
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
->>>>>>> 236bd1e264cd39e19254cbae31c7f1907062dcd1
         int min=0;
         for(int i=1;i*i<=N;i++)
         {
@@ -60,14 +40,6 @@ System.out.println("asdasdasdasd");
     }
     private int abs(int val)
     {
-        System.out.println("rishabh");
-
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
-        System.out.println("rishabh");
         return val<0?-val:val;
     }
 }
