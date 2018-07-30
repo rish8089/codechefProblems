@@ -42,6 +42,14 @@ class ArrangingCupCakes {
     }
     private int abs(int val)
     {
+        System.out.println("rishabh");
+
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
         return val<0?-val:val;
     }
 }
