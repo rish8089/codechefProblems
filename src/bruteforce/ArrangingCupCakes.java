@@ -1,6 +1,6 @@
 package bruteforce;
-
-import java.io.BufferedReader;
+/// as dasd
+import java.o.BufferedReader;
 
 class ArrangingCupCakes {
 
@@ -18,6 +18,7 @@ class ArrangingCupCakes {
 
     public void getMinDiffBtwnHeightAndWidth()
     {
+	System.out.println("asdasdasdasd");
         int min=0;
         for(int i=1;i*i<=N;i++)
         {
