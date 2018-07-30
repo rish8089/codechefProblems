@@ -18,6 +18,14 @@ class ArrangingCupCakes {
 
     public void getMinDiffBtwnHeightAndWidth()
     {
+        System.out.println("rishabh");
+
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
+        System.out.println("rishabh");
         int min=0;
         for(int i=1;i*i<=N;i++)
         {
