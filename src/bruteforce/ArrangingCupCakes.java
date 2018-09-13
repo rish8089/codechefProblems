@@ -1,6 +1,6 @@
 package bruteforce;
-
 import java.io.BufferedReader;
+import java.util.*;
 
 class ArrangingCupCakes {
 
